@@ -1,0 +1,15 @@
+{
+  "name": "blur-effect",
+  "version": "1.0.0",
+  "description": "simple webapp showing blur effect",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://neeteshkaushik.github.io/blur-effect",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
